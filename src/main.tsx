@@ -100,7 +100,7 @@ function App() {
       <header className="appHeader">
         <div>
           <p className="eyebrow">Private Inference</p>
-          <h1>Staking Economics</h1>
+          <h1>Staking Prices Calculator</h1>
         </div>
         <button type="button" onClick={resetDefaults}>
           Reset
