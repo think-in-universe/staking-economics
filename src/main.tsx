@@ -179,12 +179,11 @@ function App() {
       <section className="formulaBand">
         <h2>Formula</h2>
         <code>
-          monthly credits = staked NEAR * NEAR price * APY / 12 / discount /
-          credit price
+          monthly credits = staked NEAR * NEAR price * APY / 12 / discount
         </code>
         <code>
           earned credits per second = staked NEAR * NEAR price * APY / discount
-          / credit price / seconds per year
+          / seconds per year
         </code>
       </section>
     </main>
