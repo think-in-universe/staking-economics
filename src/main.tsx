@@ -141,7 +141,7 @@ function App() {
         </form>
 
         <section className="panel">
-          <h2>Agent Hosting Subscriptions</h2>
+          <h2>Subscriptions (Agent Hosting)</h2>
           <ResultRow
             label="Monthly credits"
             value={formatNumber(outputs.monthlyCredits, 8)}
@@ -158,7 +158,7 @@ function App() {
         </section>
 
         <section className="panel">
-          <h2>Staking Farm</h2>
+          <h2>Staking Farm (NEAR AI Cloud)</h2>
           <ResultRow
             label="Monthly equivalent credits"
             value={formatNumber(outputs.farmMonthlyEquivalentCredits, 8)}

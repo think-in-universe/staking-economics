@@ -10,6 +10,17 @@ npm install
 npm run dev
 ```
 
+## Deploy
+
+This repo is configured for GitHub Pages. Pushes to `main` build and publish the
+app with GitHub Actions.
+
+Published URL:
+
+```text
+https://think-in-universe.github.io/staking-economics/
+```
+
 ## What It Calculates
 
 - Monthly credits for agent-hosting subscriptions from staked NEAR.
