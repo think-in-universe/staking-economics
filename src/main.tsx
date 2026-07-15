@@ -99,7 +99,7 @@ function App() {
     <main>
       <header className="appHeader">
         <div>
-          <p className="eyebrow">Private Inference</p>
+          <p className="eyebrow">NEAR AI</p>
           <h1>Staking Prices Calculator</h1>
         </div>
         <button type="button" onClick={resetDefaults}>
