@@ -1,7 +1,7 @@
 # staking-economics
 
 NEAR staking economics calculator for House of Stake agent-hosting subscriptions
-and the NEAR AI Cloud staking farm.
+and the Private Inference staking farm.
 
 ## Run locally
 
@@ -24,7 +24,7 @@ https://think-in-universe.github.io/staking-economics/
 ## What It Calculates
 
 - Monthly credits for agent-hosting subscriptions from staked NEAR.
-- Monthly equivalent credits for a NEAR AI Cloud staking farm position.
+- Monthly equivalent credits for a Private Inference staking farm position.
 - Earned credits per second for the entered stake amount.
 - Earned credits per second per staked NEAR.
 

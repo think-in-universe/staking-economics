@@ -99,7 +99,7 @@ function App() {
     <main>
       <header className="appHeader">
         <div>
-          <p className="eyebrow">NEAR AI Cloud</p>
+          <p className="eyebrow">Private Inference</p>
           <h1>Staking Economics</h1>
         </div>
         <button type="button" onClick={resetDefaults}>
@@ -158,7 +158,7 @@ function App() {
         </section>
 
         <section className="panel">
-          <h2>Staking Farm (NEAR AI Cloud)</h2>
+          <h2>Staking Farm (Private Inference)</h2>
           <ResultRow
             label="Monthly equivalent credits"
             value={formatNumber(outputs.farmMonthlyEquivalentCredits, 8)}
